@@ -1,0 +1,11 @@
+{
+  "name": "TA-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nioi-sugoi/TA-scraping.git",
+  "author": "nioi-sugoi <nioisugoi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.7.0"
+  }
+}
